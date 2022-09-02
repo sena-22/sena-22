@@ -8,7 +8,7 @@
 
 <div align="center">
 <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"> <br>
-  <img src = "https://img.shields.io/badge/tomato-tomato-red">
+  <img src = "https://img.shields.io/badge/tomato-tomato-purple">
 </div>
 
 
