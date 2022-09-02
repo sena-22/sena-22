@@ -2,7 +2,7 @@
 
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sena-22&layout=compact"><br><br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sena-22&layout=material-palenight"><br><br>
 <img src="https://github-readme-stats.vercel.app/api?username=sena-22&show_icons=true">
 </div> <br>
 
