@@ -2,8 +2,8 @@
 
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sena-22&&theme=material-palenight&show_icons=true"><br><br>
-<img src="https://github-readme-stats.vercel.app/api?username=sena-22&show_icons=true">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sena-22&theme=buefy&show_icons=true"><br><br>
+<img src="https://github-readme-stats.vercel.app/api?username=sena-22&theme=material-palenight&show_icons=true">
 </div> <br>
 
 <div align="center">
