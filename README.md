@@ -5,9 +5,7 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sena-22&layout=compact"><br><br>
 <img src="https://github-readme-stats.vercel.app/api?username=sena-22&show_icons=true">
 </div> <br>
-<div align="center>
-<h5> Study
-<div>
+
 <div align="center">
 <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"> <br>
   <img src = "https://img.shields.io/badge/tomato-tomato-red">
