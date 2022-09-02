@@ -2,22 +2,21 @@
 
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sena-22&theme=buefy&show_icons=true"><br><br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sena-22&layout=compact&theme=nightowl">
 <img src="https://github-readme-stats.vercel.app/api?username=sena-22&theme=material-palenight&show_icons=true">
+
 </div> <br>
-
 <div align="center">
-<img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"> <br>
-  <img src = "https://img.shields.io/badge/tomato-tomato-purple">
+<img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"> 
+<img src = "https://img.shields.io/badge/tomato-tomato-purple">  
+<a href="https://manilafolder.tistory.com"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white"/>
 </div>
-
-
 
 
 <!--
 **sena-22/sena-22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-
+<img scr="https://github-readme-stats.vercel.app/api/top-langs/?sena-22=anuraghazra&layout=compact><br>
 
 
 Here are some ideas to get you started:
