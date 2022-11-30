@@ -9,7 +9,7 @@
 <div align="center">
 <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"> 
 <img src = "https://img.shields.io/badge/tomato-tomato-purple">  
-<a href="https://manilafolder.tistory.com"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white"/>
+<a href="https://velog.io/@sena-22"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Velog&logoColor=white"/>
 </div>
 
 
