@@ -15,6 +15,7 @@
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
  </a>
 </div>
+<br/>
 <div align="center">
  <span> <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">  </span>
  <span>  <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> </span>
