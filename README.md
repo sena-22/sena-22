@@ -15,5 +15,5 @@
 <br />
 <div >
 <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sena-22&layout=compact&theme=nightowl"> -->
-<img src="https://github-readme-stats.vercel.app/api?username=sena-22&theme=material-palenight&show_icons=true">
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=sena-22&theme=material-palenight&show_icons=true"> -->
 </div> 
