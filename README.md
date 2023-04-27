@@ -3,7 +3,7 @@
 <div>
  <span> <a href="https://sena-22.github.io/">
 <img 
-   src="http://img.shields.io/badge/-Blog-47266E?style=flat&logoColor=white&link=https://sena-22.github.io"
+   src="http://img.shields.io/badge/-Blog-47266E?style=flat&logoColor=white&link=https://rienrose.tistory.com/"
    style="height : auto; margin-left : 10px; margin-right : 10px;"/>
  </a>
  </span>
