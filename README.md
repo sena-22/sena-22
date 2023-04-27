@@ -1,7 +1,7 @@
 
 
 <div>
- <span> <a href="https://sena-22.github.io/">
+ <span> <a href="https://rienrose.tistory.com/">
 <img 
    src="http://img.shields.io/badge/-Blog-47266E?style=flat&logoColor=white&link=https://rienrose.tistory.com/"
    style="height : auto; margin-left : 10px; margin-right : 10px;"/>
