@@ -6,7 +6,7 @@
     />
   </a>
   
-[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=rienrose&theme=dafault)](https://github.com/loosie/github-readme-tistory-card)
+[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=rienrose&theme=dafault)](https://rienrose.tistory.com/)
 
 </div>
 
