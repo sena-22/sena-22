@@ -1,19 +1,35 @@
-
+<div>
+ <a href="https://rienrose.tistory.com/">
+  <img 
+     src="http://img.shields.io/badge/-Tistory Blog-Ed6D52?style=flat-square&logoColor=white&link=https://rienrose.tistory.com/"
+     style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+  </a>
+</div> 
 
 <div>
- <span> <a href="https://rienrose.tistory.com/">
-<img 
-   src="http://img.shields.io/badge/-Blog-47266E?style=flat&logoColor=white&link=https://rienrose.tistory.com/"
-   style="height : auto; margin-left : 10px; margin-right : 10px;"/>
- </a>
- </span>
- <span> <img src="https://img.shields.io/badge/html5-E34F26?style=flat&logo=html5&logoColor=white">  </span>
- <span>  <img src="https://img.shields.io/badge/css-1572B6?style=flat&logo=css3&logoColor=white"> </span>
- <span>   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat&logo=javascript&logoColor=black"> </span>
- <span>  <img src="https://img.shields.io/badge/react-61DAFB?style=flat&logo=react&logoColor=black"> </span>
- </div>
-<br />
-<div >
+ 
+ #### _Stacks_
+ 
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black">
+<img src="https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=Typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"> 
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&amp;logo=Next.js&amp;logoColor=white" />
+<img src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=white">  
+<img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white"> 
+<img src="https://img.shields.io/badge/styled_components-DB7093?style=flat-square&logo=styled-components&logoColor=white"> 
+</div>
+
+
+#### _TOOLS_
+
+<div>
+<img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat-square&logo=visual-studio-code&logoColor=white"/>
+<img src="https://img.shields.io/badge/discord-5865F2?style=flat-square&logo=discord&logoColor=white"/> <img src="https://img.shields.io/badge/notion-000000?style=flat-square&logo=notion&logoColor=white"/> 
+<img src="https://img.shields.io/badge/figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/> <img src="https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white"/>
+</div>
+
+
+<!-- <a href="https://github.com/sena-22"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsena-22&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=GitHub&edge_flat=false)"/></a> -->
 <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sena-22&layout=compact&theme=nightowl"> -->
-<!-- <img src="https://github-readme-stats.vercel.app/api?username=sena-22&theme=material-palenight&show_icons=true"> -->
-</div> 
+ <!--<img src="https://github-readme-stats.vercel.app/api?username=sena-22&theme=material-palenight&show_icons=true"> -->
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sena-22&hide_progress=true&hide=html,Java,Ruby,Shell) -->
