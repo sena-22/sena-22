@@ -11,9 +11,10 @@
 </div>
 -->
 
-<div>
  
  #### _STACKS_
+ 
+<div>
  
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black">
 <img src="https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=Typescript&logoColor=white"/>
