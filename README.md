@@ -1,4 +1,4 @@
-<div>
+ <!-- div>
 
  <a href="https://rienrose.tistory.com/">
   <img 
@@ -9,6 +9,7 @@
 [![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=rienrose&theme=dafault)](https://rienrose.tistory.com/)
 
 </div>
+-->
 
 <div>
  
